@@ -10,9 +10,11 @@ Some Toqcidadão Screens. From left to right: Entry Screen, Part of the Onboardi
 
 Toqcidadão is a free mobile app that allows all citizens to report issues instantly, directly to local authorities or service providers.
 
-Its main goal is to ease the communication of most issues found in the neighbourhood, so that they can be solved, hassle-free and in a timely manner, by the appropriate authorities.
+Its’ main goal is to make citizens’ lives easier, by straight forwarding the communication of most issues found in their neighbourhood, so that they can be solved, hassle-free and in a timely manner, by the right authorities.
 
-This project was developed with Juan de la Cruz, Marta Casal, Tiago Luís and Tiago Rodrigues for a User Experience Design class.
+This project was developed with Juan de la Cruz, Marta Casal, Tiago Luís and Tiago Rodrigues for a User Experience Design class. The end goal of the project for this class was delivering an MVP prototype of our idea and testing it with real users throughout the semester.
+
+I took part in every design stage, from research to interaction design and testing, but was sole responsible for the final mockups and prototyping.
 
 **Our Vision**</br>
 Foster the community spirit by making everybody responsible for solving issues in their neighbourhood;</br>
