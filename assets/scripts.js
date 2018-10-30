@@ -8147,6 +8147,9 @@ return settings;
 app.service("brazeBridgeService", BrazeBridgeService);
 /** @ngInject */
 function BrazeBridgeService($http, $q, $rootScope, $timeout, $window, accountService, errorLogService, sessionService) {
+function getUserEmail() {
+return (sessionService.user || {}).email || '';
+};
 function submitEnterpriseLeadInfo(userDetails) {
 var email = (sessionService.user || {}).email || '';
 var employer = email.substring(email.lastIndexOf("@") + 1, email.lastIndexOf("."));
@@ -8191,7 +8194,11 @@ numOfDesigners: ""
 );
 }
 $window.addEventListener('message', function (event) {
-if (!event || !event.data || event.data.toString().indexOf('braze-trigger:') !== 0) {
+if (!event || event.source !== window) {
+return;
+}
+var regexp = /^[a-zA-Z0-9\s\:\-]+$/;
+if (!event || !event.data || event.data.toString().indexOf('braze-trigger:') !== 0 || !regexp.test(event.data.toString())) {
 return;
 }
 var triggerParams = event.data.split(':').slice(2);
@@ -8220,7 +8227,8 @@ errorLogService.exceptionHandler('Braze component triggering a js interaction th
 return {
 initialize: function(){
 $window.InvBrazeBridge = {
-submitEnterpriseLeadInfo: submitEnterpriseLeadInfo
+submitEnterpriseLeadInfo: submitEnterpriseLeadInfo,
+getUserEmail: getUserEmail
 };
 }
 };
