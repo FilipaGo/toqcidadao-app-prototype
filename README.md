@@ -213,3 +213,36 @@ Information Architecture detail.
 </p>
 
 Before diving into the wireframes, we mapped out the high-level [information architecture](https://github.com/FilipaGo/toqcidadao-app-prototype/blob/master/_docs_readme/arquitectura-info.jpg) to make sure the whole team was on board about the app’s structure.
+
+## Step 6 — Sketching and Wireframing
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/sketches.jpg" alt="Toqcidadão’s sketches" width="1000">
+First Sketches.
+</p>
+
+After identifying the key user flow and information architecture, we did some rough sketching and worked on low-fidelity wireframes to quickly generate ideas on how the main screens could fit together and figure out the details of the interface elements.
+
+Applying lean UX, our team sketched wireframes to readily test, validate, and move on to digital wireframes.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/wireframes_01.jpg" alt="Toqcidadão’s wireframes" width="1000">
+Wireframes.
+</p>
+
+Each team member worked on their own wireframes using Balsamiq Mockups. We then revised every proposal and picked the best ideas and solutions that came up.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/wireframes_02.jpg" alt="Toqcidadão’s wireframes" width="1000">
+Wireframes.
+</p>
+
+We settled on a linear navigation for the incident report, that progressively asks for the user’s input, in 4 easy steps:
+
+* Pick a category;
+* Describe the incident;
+* Add a photo (optional; up to 4);
+* Set the incident’s location (automatically filled-in by the device’s GPS but can be changed, as the user might want to submit an incident later);
+* Revise and report;
+
+All screens from the report user flow have a top bar showing the user’s progress and the number of steps until completion. The progress bar also serves as a navigation that enables the user to go back and fix any mistakes he might have done while filling-in the report’s details.
