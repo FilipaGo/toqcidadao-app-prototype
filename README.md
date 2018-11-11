@@ -260,7 +260,14 @@ I designed high-fidelity mockups to establish the look and feel of our MVP and f
 Toqcidadão’s main tabs — Home, Neighbourhood, Profile, Help — and Issue detail screens.
 </p>
 
-Finally, I worked on a friendly onboarding that clearly explained the benefits of our product and showed how Toqcidadão can make our users’ lives easier.
+The reporting process is simple, straightforward, and can be finished in 4 easy steps plus confirmation.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/mockups_report.jpg" alt="Reporting screens" width="1000">
+Toqcidadão’s screens for submitting an issue.
+</p>
+
+I also worked on a friendly onboarding that clearly explains the benefits of our product and shows how Toqcidadão can make our users’ lives easier.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/mockups_onboarding.jpg" alt="Toqcidadão’s register, onboarding and home screens" width="1000">
