@@ -193,3 +193,23 @@ Meet Joana, our proto-persona.
 The interviews, surveys and storyboard naturally allowed us to establish a key character to represent who will use the product. This way, we were able to design for a specific somebody instead of a generic anybody.
 
 The proto-persona helped us foster empathy for the user and stay focused on people instead of features so we could design a solution that would solve specific problems for a precise type of user.
+
+## Step 4 — User Flow
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/user-flow.jpg" alt="Main user flow detail" width="1000">
+Reporting an Issue (detail).
+</p>
+
+Mapping out the [key user flow](https://github.com/FilipaGo/toqcidadao-app-prototype/blob/master/_docs_readme/user-flow_reportar-ocorrencia.jpg) early helped us avoid spending too much time redesigning and revising wireframes.
+
+The user flow also helped the team scope the product and understand the key tech dependencies.
+
+## Step 5 — Information Architecture
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/info-arch.jpg" alt="Toqcidadão’s Information Architecture" width="1000">
+Information Architecture detail.
+</p>
+
+Before diving into the wireframes, we mapped out the high-level [information architecture](https://github.com/FilipaGo/toqcidadao-app-prototype/blob/master/_docs_readme/arquitectura-info.jpg) to make sure the whole team was on board about the app’s structure.
