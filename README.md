@@ -167,3 +167,29 @@ Tree Testing results.
 </p>
 
 The tree testing showed us that some incidents can be dubious and hard to categorize. So for the MVP, we decided that the categories screen should include a link to a help screen.
+
+## Step 2 — Storyboarding
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/storyboard.jpg" alt="Storyboard depicting Joana’s journey." width="1000">
+Storyboard depicting the user’s journey.
+</p>
+
+> Joana, a mother of two, goes with her children to the playground. Her kids are sad because a swing is broken. Joana picks up her mobile phone and uses Toqcidadão to report the issue. She chooses a category for the incident, describes the problem, adds a photo, checks the location and hits send. The report is delivered to the relevant authority who sends technicians to repair the broken swing. Joana receives a notification when the issue is fixed and goes back to the park where her children can now play safely.
+
+After analysing the results from the interviews and surveys, we storyboarded the user’s journey (scenario).
+
+Our goal was to capture the problem and the solution instead of starting with the design of the screens.
+
+This storyboard helped us ensure the whole team was on the same page about the problem our product solved.
+
+## Step 3 — Proto-Persona
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/proto-persona.jpg" alt="Proto-persona scheme" width="1000">
+Meet Joana, our proto-persona.
+</p>
+
+The interviews, surveys and storyboard naturally allowed us to establish a key character to represent who will use the product. This way, we were able to design for a specific somebody instead of a generic anybody.
+
+The proto-persona helped us foster empathy for the user and stay focused on people instead of features so we could design a solution that would solve specific problems for a precise type of user.
