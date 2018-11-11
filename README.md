@@ -6,6 +6,23 @@ Some Toqcidadão Screens. From left to right: Entry Screen, Part of the Onboardi
 <br></br>
 </p>
 
+📖 <i>`Estimated reading time: 12 minutes (2988 words)`</i>
+
+**Table of Contents**
+
+* [Summary](https://github.com/FilipaGo/toqcidadao-app-prototype#summary)</br>
+* [Problem](https://github.com/FilipaGo/toqcidadao-app-prototype#problem)</br>
+* [Proposed Solution](https://github.com/FilipaGo/toqcidadao-app-prototype#proposed-solution)</br>
+* [Step 1 — Research](https://github.com/FilipaGo/toqcidadao-app-prototype#step-1--research)</br>
+* [Step 2 — Storyboarding](https://github.com/FilipaGo/toqcidadao-app-prototype#step-2--storyboarding)</br>
+* [Step 3 — Proto-Persona](https://github.com/FilipaGo/toqcidadao-app-prototype#step-3--proto-persona)</br>
+* [Step 4 — User Flow](https://github.com/FilipaGo/toqcidadao-app-prototype#step-4--user-flow)</br>
+* [Step 5 — Information Architecture](https://github.com/FilipaGo/toqcidadao-app-prototype#step-5--information-architecture)</br>
+* [Step 6 — Sketching and Wireframing](https://github.com/FilipaGo/toqcidadao-app-prototype#step-6--sketching-and-wireframing)</br>
+* [Step 7 — Mockups](https://github.com/FilipaGo/toqcidadao-app-prototype#step-7--mockups)</br>
+* [Step 8 — Prototyping and Usability Testing](https://github.com/FilipaGo/toqcidadao-app-prototype#step-8--prototyping-and-usability-testing)</br>
+* [Final Thoughts](https://github.com/FilipaGo/toqcidadao-app-prototype#final-thoughts)</br>
+
 ## Summary
 
 Toqcidadão is a free mobile app that allows all citizens to **report issues instantly, directly to local authorities or service providers**.
@@ -407,6 +424,8 @@ Even though the following **improvements** don’t fully impact our mission, the
 * Provide local contacts for emergencies (like police and fire stations);
 * Provide local useful contacts like pharmacies, train stations, etc…;
 * Display nearby events.
+
+👉 **If you haven't seen the prototype yet, check it out here** — https://filipago.github.io/toqcidadao-app-prototype/
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/logo.jpg" alt="Toqcidadão’s logo" width="300"/>
