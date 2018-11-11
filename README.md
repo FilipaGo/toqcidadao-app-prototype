@@ -246,3 +246,25 @@ We settled on a linear navigation for the incident report, that progressively as
 * Revise and report;
 
 All screens from the report user flow have a top bar showing the user’s progress and the number of steps until completion. The progress bar also serves as a navigation that enables the user to go back and fix any mistakes he might have done while filling-in the report’s details.
+
+## Step 7 — Mockups
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/mockups_01.jpg" alt="Sketch document showing a couple of Toqcidadão’s app screens" width="1000">
+</p>
+
+I designed high-fidelity mockups to establish the look and feel of our MVP and fine-tune all the visual details.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/mockups_02.jpg" alt="Home, Neighbourhood, Profile, Help and Issue detail screens" width="1000">
+Toqcidadão’s main tabs — Home, Neighbourhood, Profile, Help — and Issue detail screens.
+</p>
+
+Finally, I worked on a friendly onboarding that clearly explained the benefits of our product and showed how Toqcidadão can make our users’ lives easier.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/mockups_onboarding.jpg" alt="Toqcidadão’s register, onboarding and home screens" width="1000">
+Toqcidadão’s onboarding.
+</p>
+
+Making sure they feel familiar with what to expect before using the app will hopefully ease our users into the product’s experience, setting them up for success, as well as reduce drop off rate and improve retention. 👍
