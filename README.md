@@ -268,3 +268,107 @@ Toqcidadão’s onboarding.
 </p>
 
 Making sure they feel familiar with what to expect before using the app will hopefully ease our users into the product’s experience, setting them up for success, as well as reduce drop off rate and improve retention. 👍
+
+## Step 8 — Prototyping and Usability Testing
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/testing_prototype.jpg" alt="Browser showing the prototype being built with InVision" width="1000">
+Prototyping...
+</p>
+
+I uploaded the mockups to InVision and made a [clickable prototype]( https://filipago.github.io/toqcidadao-app-prototype) to emulate the app’s behaviour and set up a basis to test the product (this links to our last prototype version, with improvements and fixes).
+
+> Keep it simple, so you’ll keep doing it.</br>
+> Steve Krug, _Don’t Make Me Think, Revisited_
+
+User testing was vital to getting feedback for our design solution and understanding if the app was clearly understood, working well and usable by our potential end users.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/testing_intro.jpg" alt="What we told our test participants: We are developing an app called Toqcidadão that aims to improve the way citizens report issues they come across in their neighbourhood. The following test is fairly simple but remember: we’re testing the app, not you! We just want to know what we can improve so don‘t worry, there are no right or wrong answers. We would like you to complete a set of two tasks while thinking aloud and explaining your actions. This can help us a lot because it enables us to pinpoint where users like you might experience more difficulties while using the app." width="1000">
+User testing intro to make sure our participants felt comfortable and relaxed.
+</p>
+
+We did multiple rounds of user testing, with a set of 2 scenarios, that allowed us to determine if our users could effectively perform the most routine task — reporting an issue:
+
+**1st Scenario**</br>
+_You found an abandoned couch on the street. Using Toqcidadão’s app, report the issue to local authorities. Don’t forget to add a photo!_
+
+**2nd Scenario**</br>
+_You found an abandoned couch on the street, but you didn’t have the time to report the issue at the scene. You’re currently at home and want to report it. Using Toqcidadão’s app, report the issue to local authorities. Don’t forget to change the issue’s location!_
+
+We ran usability tests through direct interviews (≈ 10 minutes each) over 2 days, with a panel of 11 potential users, using the clickable prototype.
+<br></br>
+
+**#** | **Age** | **Gender** | **Kids** | **Education** | **Job**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+ **1** | 61 | F | Yes | College | IT Specialist
+ **2** | 61 | M | Yes | College | IT Specialist
+ **3** | 48 | F | Yes | High School | Office Clerk
+ **4** | 25 | F | No | High School | Student
+ **5**| 52 | F | Yes | College | Senior Technician
+ **6** | 21 | M | No | High School | Student
+ **7** |55 | M | Yes | College | High School Teacher
+ **8** | 44 | F | Yes | College | Events Manager
+ **9** |43 | M | Yes | College | Mechanical Engineer
+ **10** | 27 | F | No | High School | Hotel Services
+ **11** | 40 | M | No | College | Software Engineer
+<p align="center">
+Demographic characterization of the participants. The sample was significant and adequately represented the potential users’ population.
+</p>
+
+We recorded all the interviews, following the express authorization of the interviewees (documented in the interview itself and on paper, before recordings began).
+
+We took note of every issue, comment and relevant insight, and iterated on the draft product based on user feedback.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/testing_screens_nav.jpg" alt="Top navigation iteration" width="1000">
+Before and after images of the top navigation/progress bar (report screens).
+</p>
+
+After each test, we always tried to collect more information on what people liked the most, what they disliked, whether the product had met their expectations and improvement recommendations.
+
+Most participants weren’t familiar with this type of product (probably due to its very low existence and dissemination in Portugal) but overall, they thought the app was quite useful, clear and easy to use.
+
+All participants successfully accomplished both scenarios with fair ease and speed, which shows the mvp’s good usability level.
+
+During testing, our users pinpointed the following strengths:
+
+* Very intuitive user interface;
+* Fundamentally visual interface;
+* Fluid, well-structured app;
+* The user quickly reaches his final goal (report an issue);
+* The app can improve the user’s life quality (no more queues and filling long forms);
+* The app completely fulfils its intended purpose.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/testing_screens_success.jpg" alt="Success screen iteration" width="1000">
+Success screen before and after images.
+</p>
+
+But the tests also helped us identify a few problems like:
+
+* There is no way to know where the report was sent to; _fixed_
+* There is no feedback on the outcome of the issue report; _fixed_
+* Icons can be hard to perceive, especially in the navigation bar; _improved the iconography and added labels_
+* The report summary was unclear for some participants; _to be fixed_
+* Some users would like to receive an email confirmation when submitting an issue; _to think about later_
+* Location editing is not intuitive; _improved_
+* Too much text on the help screen; _to be fixed_
+* More categories; _to be fixed_
+* “People don’t like writing”. _we’ll have to think about this one later on_ 🤔
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/testing_screens_local.jpg" alt="Change location flow iteration" width="1000">
+Change issue location before and after images.
+</p>
+
+Our users also left us with a set of relevant recommendations and suggestions to be taken into account in future releases:
+
+* Extend categorization to areas of the private sphere (where public suppliers intervene, like “Utilities’ failures”);
+* Improve the way monitoring the issues’ resolution is performed;
+* Create a category explicitly related to animal protection;
+* Create a category for non-typified issues;
+* Create subcategories (like litter);
+* Show the authority that receives the issue report on the Success screen — “Your report was submitted to authority x”. _fixed in the MVP_
+
+👉 **Checkout Toqcidadão’s InVision final Prototype here** — https://filipago.github.io/toqcidadao-app-prototype/
