@@ -372,3 +372,40 @@ Our users also left us with a set of relevant recommendations and suggestions to
 * Show the authority that receives the issue report on the Success screen — “Your report was submitted to authority x”. _fixed in the MVP_
 
 👉 **Checkout Toqcidadão’s InVision final Prototype here** — https://filipago.github.io/toqcidadao-app-prototype/
+
+## Final Thoughts
+
+Overall, the tests went smoothly but naturally, the authorities’ response to the reported issues will decide the success of our product.
+
+Part of the minor difficulties experienced by the participants during tests was due to some shortcomings in the initial prototype and not exactly user interface problems.
+
+Implementing part of our users’ recommendations can bring significant value to our product, possibly with extra costs that may be marginal in terms of design and development.
+
+### Next Steps
+
+Priority “fixes”:
+
+* Rework the help screen copy and layout;
+* Rework the report summary layout;
+* Work on a more comprehensive categorization, like animal protection and noise;
+* More in-depth testing of the categories with tree testing and card sorting.
+
+Even though the following improvements don’t fully impact our mission, they align with our vision and would be nice to have:
+
+* Voice-activated reporting;
+* Make the product usable without a mandatory registry, even though some functionalities will still require it;
+* Deliver local alerts like construction work, public transportation suppressions, strikes, venues’ closure, town meetings, etc..;
+* Provide local council and service providers’ contacts and information;
+* Connect with nearby council and service providers via social media;
+* Provide local contacts for emergencies (like police and fire stations);
+* Provide local useful contacts like pharmacies, train stations, etc…;
+* Display nearby events.
+
+<p align="center">
+<img src=" https://raw.githubusercontent.com/FilipaGo/toqcidadao-app-prototype/master/_images_readme/logo.jpg" alt="Toqcidadão’s logo" width="300"/>
+</p>
+<p align="center">
+Thanks for taking the time to read my case study.
+</p>
+
+A special thank you to the team, Juan de la Cruz, Marta Casal, Tiago Luís and Tiago Rodrigues.
