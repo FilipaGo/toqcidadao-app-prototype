@@ -43,7 +43,7 @@ Improve the Portuguese public places.
 
 ***
 
-👉 **Checkout Toqcidadão’s InVision Prototype here** — https://filipago.github.io/toqcidadao-app-prototype/
+👉 **Check out Toqcidadão’s InVision Prototype here** — https://filipago.github.io/toqcidadao-app-prototype/
 
 ## Problem
 
@@ -395,7 +395,7 @@ Our users also left us with a set of relevant recommendations and **suggestions*
 * Create subcategories (like litter);
 * Show the authority that receives the issue report on the Success screen — “Your report was submitted to authority x”. _fixed in the MVP_
 
-👉 **Checkout Toqcidadão’s InVision final Prototype here** — https://filipago.github.io/toqcidadao-app-prototype/
+👉 **Check out Toqcidadão’s InVision final Prototype here** — https://filipago.github.io/toqcidadao-app-prototype/
 
 ## Final Thoughts
 
